@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>True/Slant</title>
+	<style type="text/css">
+
+		body {
+			margin:0;
+			margin-top:40px;
+			padding:0;
+			background:#fff;
+			font-family:Georgia,Times,serif;
+			font-size:21px;
+		}
+
+		img {
+			border:0;
+		}
+		
+		#wrapper {
+			width:423px;
+			margin:0 auto;
+			text-align:center;
+		}
+		
+		#logo {
+			margin-bottom:40px;
+		}
+		
+		#graphic {
+			margin-bottom:34px;
+		}
+		
+		#message {
+			color:#e00022;
+			margin-bottom:80px;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="logo"><img src="images/true_slant_logo.gif" height="24" width="194" alt="True/Slant" /></div>
+		
+		<div id="graphic"><img src="images/typewriter.jpg" height="323" width="372" alt="" /></div>
+		
+		<div id="message">Changing the ribbon.<br />Back up in a sec.</div>
+	</div>
+</body>
+<!-- Error 500 -->
+</html>

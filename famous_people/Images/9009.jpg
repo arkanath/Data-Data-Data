@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 TransITional//EN" "http://www.w3.org/TR/XHTML1/DTD/XHTML1-transITional.dtd">
+<html xmlns="http://www.w3.org/1999/XHTML" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<tITle>NAVER</tITle>
+
+<script type="text/javascript">
+// IE default language for the browser
+if (navigator.browserLanguage){language=navigator.browserLanguage} 
+
+// IE browser language set by the user
+if (navigator.userLanguage){language=navigator.userLanguage} 
+
+// IE operating system language
+if (navigator.systemLanguage){language=navigator.systemLanguage} 
+
+// Netscape language sniff
+if (navigator.language){language=navigator.language} 
+
+// Turn all variants of "en-us", "en-au" etc into plain "en"
+if (language.indexOf('-')==2) {language=language.substring(0,2);} 
+
+if (language=='ja') {URL='http://help.naver.jp/faq?groupNo=95'}
+else if (language=='jp') {URL='http://help.naver.jp/faq?groupNo=95'}
+else {URL='http://help.naver.com/customer/etc/webDocument.nhn'}
+location.replace(URL);
+</script>
+<noscript>
+Click <a href="http://help.naver.com/customer/etc/webDocument.nhn">here</a> to read help.
+<br>
+<br>
+<a href="http://help.naver.com/customer/etc/webDocument.nhn">For Korean</a><br>
+<a href="http://help.naver.jp/faq?groupNo=95">For Japanese</a>
+</noscript>
+</head>
+
+<body></body>
+</html>

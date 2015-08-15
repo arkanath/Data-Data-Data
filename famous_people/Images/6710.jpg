@@ -1,0 +1,363 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if lt IE 7 ]> <html lang="en" dir="ltr" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" dir="ltr" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" dir="ltr" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" dir="ltr" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!--
+
+  GGGGGGGGGGGG      GGGGGGGGGGG               fGGGGGG
+    ;GGGGG.             GGGi                     GGGG
+      CGGGG:           GGG                       GGGG
+       lGGGGt         GGL                        GGGG
+        .GGGGC       GG:                         GGGG
+          GGGGG    .GG.        ;CGGGGGGL         GGGG          .LGGGGGGGL
+           GGGGG  iGG        GGG:   ,GGGG        GGGG        tGGf     ;GGGC
+            LGGGGfGG        GGGG     CGGG;       GGGG       GGGL       GGGGt
+             lGGGGL                  CGGG;       GGGG      CGGGCCCCCCCCCCCCC
+              GGGG                   GGGG,       GGGG      GGGG
+              GGGG             tCGG; CGGG,       GGGG      GGGG
+              GGGG          GGGG     CGGG.       GGGG      GGGGL
+              GGGG         GGGGC     CGGG.       GGGG      :GGGGC          :
+             ,GGGGG.       GGGGG:  .LGGGGG,.tG   GGGG        GGGGGGt,..,fGC
+        ,GGGGGGGGGGGGGGf    iGGGGGG   CGGGGC  GGGGGGGGGG       LGGGGGGGC
+
+  -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://history.yale.edu/sites/all/themes/yale_omega_base/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10, minimum-scale=1, user-scalable=yes" />
+<meta about="/welcome" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortlink" href="/node/1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/welcome" />
+<meta content="Welcome" about="/welcome" property="dc:title" />
+  <title>Welcome
+ | Department of History</title>  
+  <meta http-equiv="x-ua-compatible" content="ie=edge, chrome=1">
+  <meta name="viewport" content="target-densitydpi=160dpi">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="MobileOptimized" content="320">
+    
+  <!-- Apple Touch Homescreen images -->
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/yale_omega_base/images/touch/apple-touch-icon-57x57.png" />                   <!-- iPhone -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/yale_omega_base/images/touch/apple-touch-icon-114x114.png" /> <!-- iPhone Retina -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/yale_omega_base/images/touch/apple-touch-icon-72x72.png" />     <!-- iPad -->
+  <link rel="apple-touch-icon-precomposed" sizes="228x228" href="/sites/all/themes/yale_omega_base/images/touch/apple-touch-icon-228x228.png" /> <!-- iPad Retina -->
+  
+  <link type="text/css" rel="stylesheet" href="http://history.yale.edu/sites/default/files/css/css_791YXBaKKm1ORM_7huSKEsIV9tSWq6wmRkERhuXpN6w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://history.yale.edu/sites/default/files/css/css_j1tBM5qxtkO2Dr51b4a5TJY7PBGweD971MhUNrAjaJs.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://history.yale.edu/sites/default/files/css/css_Mbvxx9Exf-X6686xj9zpxmJufzkZOTCkTJeX3A7IEhQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://history.yale.edu/sites/default/files/css/css_wrHTLloFLgOh-KWGhpNUm8USOk_CdEa3PJgGH3i1Fu8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://history.yale.edu/sites/default/files/css/css_zTP0CRxT4Sm95zs8i0amBCe31EIUsJ_TKb1PgeYZZSA.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://history.yale.edu/sites/default/files/css/css_ogCWpZBEnwhlIwyH7LVuq-N7l8PHDm-b16sxXMdhtqs.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="http://history.yale.edu/sites/default/files/css/css_Sx0x1cC9CySn7YKwwEzjZBXdYiMVu1_90p73El_dq-g.css" media="all" />
+<!--<![endif]-->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://history.yale.edu/sites/default/files/js/js_4rPwjcsA1hzlHx2nz9_sLU0PwvjYpTcC3zy11uUsKH4.js"></script>
+<script type="text/javascript" src="http://history.yale.edu/sites/default/files/js/js_Cx5r3v1f5Q8k5cUcnA38LbeZbbhfsYKi0BLoupT3BkQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Drupal.settings.ais = [{"name":"threshold-480","size":480},{"name":"threshold-768","size":768},{"name":"threshold-992","size":992},{"name":"threshold-1382","size":1382}];
+Drupal.settings.ais_method = "both-max";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://history.yale.edu/sites/default/files/js/js_3gVyuNWzY7YTnQgbPR9BwpR7m9yI6xaSO3kjxA_U_JM.js"></script>
+<script type="text/javascript" src="http://history.yale.edu/sites/default/files/js/js_SpgQIV8Bkg_K51rwZjjRfSCNQCzLGartdV_D8bpVhrM.js"></script>
+<script type="text/javascript" src="http://history.yale.edu/sites/default/files/js/js_NLi98Ss-9SaYXPrcVupnNUcydQEuSJowaLHk5rCJ1PI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"yale_standard","theme_token":"DIinZs23FHo9yPXMYX3juNGW8KkEUFQ37AGhL7Ux8vI","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/modules\/contrib\/ais\/assets\/css\/ais.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/jscrollpane\/css\/jquery.jscrollpane.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/contrib\/typogrify\/typogrify.css":1,"sites\/all\/modules\/contrib\/custom_search\/custom_search.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"\/sites\/all\/libraries\/fontyourface\/YaleDesign-italic-bold\/stylesheet.css":1,"\/sites\/all\/libraries\/fontyourface\/YaleDesign-italic-normal\/stylesheet.css":1,"\/sites\/all\/libraries\/fontyourface\/YaleDesign-normal-bold\/stylesheet.css":1,"\/sites\/all\/libraries\/fontyourface\/YaleDesign-normal-normal\/stylesheet.css":1,"sites\/all\/themes\/yale_omega_base\/css\/omega-visuals.css":1,"sites\/all\/themes\/yale_omega_base\/css\/system.menus.css":1,"sites\/all\/themes\/yale_omega_base\/css\/global.css":1,"sites\/all\/themes\/yale_standard\/css\/custom.css":1,"sites\/all\/themes\/yale_omega_base\/css\/fonts.css":1,"sites\/all\/themes\/yale_omega_base\/css\/accents.css":1,"ie::normal::sites\/all\/themes\/yale_omega_base\/css\/yale-omega-base-978-default.css":1,"ie::normal::sites\/all\/themes\/yale_omega_base\/css\/yale-omega-base-978-default-normal.css":1,"ie::normal::sites\/all\/themes\/yale_omega_base\/css\/grid\/978_default\/normal\/978-default-normal-12.css":1,"fluid::sites\/all\/themes\/yale_omega_base\/css\/yale-omega-base-978-default.css":1,"sites\/all\/themes\/yale_omega_base\/css\/grid\/978_default\/fluid\/978-default-fluid-12.css":1,"narrow::sites\/all\/themes\/yale_omega_base\/css\/yale-omega-base-978-default.css":1,"narrow::sites\/all\/themes\/yale_omega_base\/css\/yale-omega-base-978-default-narrow.css":1,"sites\/all\/themes\/yale_omega_base\/css\/grid\/978_default\/narrow\/978-default-narrow-12.css":1,"normal::sites\/all\/themes\/yale_omega_base\/css\/yale-omega-base-978-default.css":1,"normal::sites\/all\/themes\/yale_omega_base\/css\/yale-omega-base-978-default-normal.css":1,"sites\/all\/themes\/yale_omega_base\/css\/grid\/978_default\/normal\/978-default-normal-12.css":1},"js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.5.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"misc\/form.js":1,"1":1,"ais\/assets\/js\/ais.js":1,"sites\/all\/modules\/contrib\/jscrollpane\/js\/jquery.jscrollpane.min.js":1,"sites\/all\/modules\/contrib\/jscrollpane\/js\/jquery.mousewheel.js":1,"sites\/all\/modules\/contrib\/jscrollpane\/js\/script.js":1,"sites\/all\/modules\/contrib\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/yale_omega_base\/js\/modernizr.custom.2.6.1.min.js":1,"sites\/all\/themes\/yale_omega_base\/js\/jquery.fitted.js":1,"sites\/all\/themes\/yale_omega_base\/js\/typebutter.jquery.min.js":1,"sites\/all\/themes\/yale_omega_base\/js\/typebutter.yaledesign.js":1,"sites\/all\/themes\/yale_omega_base\/js\/jcaption.min.js":1,"sites\/all\/themes\/yale_omega_base\/js\/fastclick.min.js":1,"sites\/all\/themes\/yale_omega_base\/js\/scripts.js":1}},"jScrollPane":{"class":".scroll-pane"},"custom_search":{"form_target":"_self","solr":0},"flexslider":{"optionsets":{"slideshow_display":{"animation":"fade","animationDuration":600,"slideDirection":"horizontal","slideshow":1,"slideshowSpeed":7000,"animationLoop":1,"randomize":0,"slideToStart":0,"directionNav":0,"controlNav":0,"keyboardNav":0,"mousewheel":0,"prevText":"Previous","nextText":"Next","pausePlay":0,"pauseText":"Pause","playText":"Play","pauseOnAction":1,"controlsContainer":".flex-nav-container","manualControls":""}},"instances":{"flexslider-1":"slideshow_display","flexslider-2":"slideshow_display","flexslider-3":"slideshow_display","flexslider-4":"slideshow_display","flexslider-5":"slideshow_display","flexslider-6":"slideshow_display"}},"omega":{"layouts":{"primary":"normal","order":["fluid","narrow","normal"],"queries":{"fluid":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","narrow":"all and (min-width: 740px) and (max-width: 1007px)","normal":"all and (min-width: 1008px) and (min-device-width: 1008px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html front not-logged-in page-node page-node- page-node-1 node-type-page one-sidebar sidebar-second accent-charcoal side-charcoal img-border">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>
+  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-topper-wrapper" class="zone-wrapper zone-topper-wrapper clearfix">  <div id="zone-topper" class="zone zone-topper clearfix container-12">
+    <aside class="grid-4 region region-topper-first" id="region-topper-first">
+  <div class="region-inner region-topper-first-inner">
+    <h1><a href="http://www.yale.edu/">Yale University</a></h1>
+  </div>
+</aside><div class="grid-8 region region-topper-second" id="region-topper-second">
+  <div class="region-inner region-topper-second-inner">
+    <div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <form class="search-form" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <input class="custom-search-default-value custom-search-box form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this site" size="15" maxlength="128" />
+</div>
+<fieldset class="custom_search-popup form-wrapper" id="edit-popup"><div class="fieldset-wrapper"></div></fieldset>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-D9EHQ7m8xitcQrf0OdZHV7tbiVxSPH0SGroZUQq0V0M" />
+<input type="hidden" name="form_id" value="search_block_form" />
+<input class="default-text" type="hidden" name="default_text" value="Search this site" />
+</div>
+</div></form>    </div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+                        <hgroup class="site-name-slogan">
+                                <h1 class="site-name"><a href="/" title="Home" class="active">Department of History
+</a></h1>
+                              </hgroup>
+          </div>
+          </div>
+</div>
+  </div>
+</div></header>
+  
+      <section id="section-content" class="section section-content">
+  <div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  <div id="zone-menu" class="zone zone-menu clearfix yale-standard-menu container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <ul class="mobile-nav">
+      <li class="main">Main Menu</li>
+      <li class="sub"><a href="#submenu">Sub Menu</a></li>
+    </ul>
+    <div class="block block-menu-block block-1 block-menu-block-1 odd block-without-title" id="block-menu-block-1">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf active menu-mlid-257 menu-home"><a href="/" class="active">Home</a></li>
+<li class="leaf has-children menu-mlid-562 menu-about-us"><a href="/about-us">About Us</a></li>
+<li class="leaf has-children menu-mlid-678 menu-people"><a href="/people/faculty">People</a></li>
+<li class="leaf has-children menu-mlid-573 menu-academics"><a href="/academics">Academics</a></li>
+<li class="leaf menu-mlid-526 menu-news"><a href="/news">News</a></li>
+<li class="leaf menu-mlid-561 menu-calendar"><a href="/calendar" title="">Calendar</a></li>
+<li class="leaf has-children menu-mlid-574 menu-links"><a href="/links">Links</a></li>
+<li class="last leaf has-children menu-mlid-664 menu-faculty-resources"><a href="/faculty-resources" title="">Faculty Resources</a></li>
+</ul></div>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div><div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  <div id="zone-content" class="zone zone-content clearfix container-12">
+            <div class="grid-9 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+            <div class="element-invisible">    <h1 class="title" id="page-title">Welcome
+</h1>
+    </div>                    <div class="grid-9 region region-header-first alpha omega" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-views block-rotating-header-image-block block-views-rotating-header-image-block odd block-without-title" id="block-views-rotating-header-image-block">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <div class="view view-rotating-header-image view-id-rotating_header_image view-display-id-block view-dom-id-788225243b17d9c4fa27cbb265304115">
+        
+  
+  
+      <div class="view-content">
+      <div class="flex-nav-container">
+  <div class="flexslider-content flexslider clearfix" id="flexslider-6">
+    <ul class="slides">
+          <li><img class="adaptive" typeof="foaf:Image" src="http://history.yale.edu/sites/default/files/styles/adaptive/public/hgs-gate-cropped.jpg" width="1502" height="602" alt="" />              </li>
+          <li><img class="adaptive" typeof="foaf:Image" src="http://history.yale.edu/sites/default/files/styles/adaptive/public/hgs-directory-cropped.jpg" width="1502" height="602" alt="" />              </li>
+          <li><img class="adaptive" typeof="foaf:Image" src="http://history.yale.edu/sites/default/files/styles/adaptive/public/hgs-courtyard4-cropped.jpg" width="1502" height="602" alt="" />              </li>
+          <li><img class="adaptive" typeof="foaf:Image" src="http://history.yale.edu/sites/default/files/styles/adaptive/public/hgs-animals-cropped.jpg" width="1502" height="602" alt="" />              </li>
+          <li><img class="adaptive" typeof="foaf:Image" src="http://history.yale.edu/sites/default/files/styles/adaptive/public/hgs-front-arches-cropped.jpg" width="1502" height="602" alt="" />              </li>
+        </ul>
+  </div>
+</div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><sup>Photo credit: Maria Zepeda ‘14</sup></p>
+    </div>
+  
+  
+</div>    </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <article about="/welcome" typeof="foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-1 odd clearfix" id="node-page-1">
+  <!--    -->
+      
+  <div class="content clearfix">
+      </div>
+
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+    </div>
+  </div>
+</div>
+<section class="block block-views block-news-block block-views-news-block even" id="block-views-news-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">News</h2>
+        
+    <div class="content clearfix">
+      <div class="view view-news view-id-news view-display-id-block teaser-list view-dom-id-6196f8ec68a1ff407d7b4bc2f6556c52">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first clickable">
+      
+  <div class="views-field views-field-field-news-image">        <div class="field-content"><a href="/news/announcement-roman-history-search-review-applications-begins-september-1-2013"><img typeof="foaf:Image" src="http://history.yale.edu/sites/default/files/styles/landscape_thumbnail/public/phelps_gate.jpg" width="128" height="90" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/news/announcement-roman-history-search-review-applications-begins-september-1-2013">Announcement: Roman History search, review of applications begins September 1, 2013</a></h3>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2013-06-07T00:00:00-04:00">June 7, 2013</span></div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">The Yale University Departments of Classics and History intend to make a senior tenured appointment in Roman History, beginning July 1, 2014. Preference will be given to...</span>  </div>  
+  <div class="views-field views-field-edit-node">        <span class="field-content"></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even clickable">
+      
+  <div class="views-field views-field-field-news-image">        <div class="field-content"><a href="/news/announcement-modern-jewish-history-search-review-applications-begins-september-1-2013"><img typeof="foaf:Image" src="http://history.yale.edu/sites/default/files/styles/landscape_thumbnail/public/lights-arch.jpg" width="128" height="90" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/news/announcement-modern-jewish-history-search-review-applications-begins-september-1-2013">Announcement: Modern Jewish History search, review of applications begins September 1, 2013</a></h3>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2013-06-01T00:00:00-04:00">June 1, 2013</span></div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Yale University&#8217;s Program in Judaic Studies seeks to fill a tenured position in modern Jewish history.  Primary academic affiliation will be in the Program in Judaic...</span>  </div>  
+  <div class="views-field views-field-edit-node">        <span class="field-content"></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last clickable">
+      
+  <div class="views-field views-field-field-news-image">        <div class="field-content"><a href="/news/paul-bushkovitch-named-reuben-post-halleck-post"><img typeof="foaf:Image" src="http://history.yale.edu/sites/default/files/styles/landscape_thumbnail/public/paul_bushkovitch-206x312.jpg" width="128" height="90" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/news/paul-bushkovitch-named-reuben-post-halleck-post">Paul Bushkovitch is named to the Reuben Post Halleck post</a></h3>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2013-05-21T00:00:00-04:00">May 21, 2013</span></div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Paul Bushkovitch, the newly appointed Reuben Post Halleck Professor of History, specializes in Russian history through the 18th century. His teaching covers Russian history...</span>  </div>  
+  <div class="views-field views-field-edit-node">        <span class="field-content"></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news">
+    More news...  </a>
+</div>
+  
+  
+  
+</div>    </div>
+  </div>
+</section>
+      </div>
+</div>
+<aside class="grid-3 region region-sidebar-second yale-standard-sidebar" id="region-sidebar-second">
+  <div class="region-inner region-sidebar-second-inner">
+    <section class="block block-views block-calendar-list-block-2 block-views-calendar-list-block-2 odd" id="block-views-calendar-list-block-2">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Upcoming Events</h2>
+        
+    <div class="content clearfix">
+      <div class="view view-calendar-list view-id-calendar_list view-display-id-block_2 view-dom-id-21dece99364ae1be8862f5ed6733638a">
+        
+  
+  
+      <div class="view-empty">
+      No events to display.    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section>
+<section class="block block-block block-1 block-block-1 even" id="block-block-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Contact Us</h2>
+        
+    <div class="content clearfix">
+      <p>Department of History<br />
+Yale University</p>
+<p>320 York Street<br />
+P.O. Box 208324<br />
+New Haven, CT 06520-8324</p>
+<p>Phone: (203) 432-1366<br />
+Fax: (203) 432-7587</p>
+    </div>
+  </div>
+</section>
+  </div>
+</aside>
+  </div>
+</div></section>
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <aside class="grid-2 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <h1><a href="http://www.yale.edu/">Yale University</a></h1>
+  </div>
+</aside><aside class="grid-6 suffix-1 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <p class="copyright">Copyright &copy; 2013 Yale University &middot; All rights reserved &middot; 
+      <a title="Yale Privacy policy" href="http://www.yale.edu/privacy.html">Privacy policy</a>
+    </p>
+    <div class="block block-footer-message block-footer-message block-footer-message-footer-message odd block-without-title" id="block-footer-message-footer-message">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <p>Contact us: <a href="mailto:dana.lee@yale.edu" rel="nofollow">dana.lee@yale.edu</a>, Phone: (203) 432-1366, Fax: (203) 432-7587</p>
+    </div>
+  </div>
+</div>
+  </div>
+</aside><div class="grid-3 region region-footer-third" id="region-footer-third">
+  <div class="region-inner region-footer-third-inner">
+    <div class="block block-menu sharing block-menu-social-buttons block-menu-menu-social-buttons odd block-without-title" id="block-menu-menu-social-buttons">
+  <div class="block-inner clearfix">
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf menu-facebook"><a href="https://www.facebook.com/YaleUniversity" title="">Facebook</a></li>
+<li class="leaf menu-twitter"><a href="http://www.twitter.com/yale" title="">Twitter</a></li>
+<li class="leaf menu-flickr"><a href="http://www.flickr.com/photos/yaleuniversity" title="">Flickr</a></li>
+<li class="leaf menu-itunes"><a href="http://itunes.yale.edu" title="">iTunes</a></li>
+<li class="last leaf menu-youtube"><a href="http://www.youtube.com/yale" title="">YouTube</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div></footer>
+  </div>
+  </body>
+</html>

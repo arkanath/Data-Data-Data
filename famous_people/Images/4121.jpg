@@ -1,0 +1,710 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://education.mnhs.org/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=yes" />
+<meta about="/home" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortlink" href="/node/1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/home" />
+<meta content="Home" about="/home" property="dc:title" />
+  <title>Home | Education</title>  
+  <style type="text/css" media="all">@import url("http://education.mnhs.org/modules/system/system.base.css?mocm7k");
+@import url("http://education.mnhs.org/modules/system/system.menus.css?mocm7k");
+@import url("http://education.mnhs.org/modules/system/system.messages.css?mocm7k");
+@import url("http://education.mnhs.org/modules/system/system.theme.css?mocm7k");</style>
+<style type="text/css" media="all">@import url("http://education.mnhs.org/modules/aggregator/aggregator.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/calendar/css/calendar_multiday.css?mocm7k");
+@import url("http://education.mnhs.org/modules/comment/comment.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/date/date_api/date.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?mocm7k");
+@import url("http://education.mnhs.org/modules/field/theme/field.css?mocm7k");
+@import url("http://education.mnhs.org/modules/node/node.css?mocm7k");
+@import url("http://education.mnhs.org/modules/search/search.css?mocm7k");
+@import url("http://education.mnhs.org/modules/user/user.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/views/css/views.css?mocm7k");</style>
+<style type="text/css" media="all">@import url("http://education.mnhs.org/sites/all/libraries/colorbox/example3/colorbox.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/ctools/css/ctools.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/nice_menus/nice_menus.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/nice_menus/nice_menus_default.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/views_slideshow/views_slideshow.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle.css?mocm7k");</style>
+<style type="text/css" media="all">@import url("http://education.mnhs.org/sites/all/themes/omega/alpha/css/alpha-reset.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/alpha/css/alpha-mobile.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/alpha/css/alpha-alpha.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/omega/css/formalize.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/omega/css/omega-text.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/omega/css/omega-branding.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/omega/css/omega-menu.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/omega/css/omega-forms.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/omega/css/omega-visuals.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/education/css/global.css?mocm7k");</style>
+<style type="text/css" media="print">@import url("http://education.mnhs.org/sites/all/themes/education/css/print.css?mocm7k");</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">@import url("http://education.mnhs.org/sites/all/themes/education/css/education-alpha-default.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/education/css/education-alpha-default-normal.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?mocm7k");</style>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 740px) and (min-device-width: 740px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">@import url("http://education.mnhs.org/sites/all/themes/education/css/education-alpha-default.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/education/css/education-alpha-default-normal.css?mocm7k");
+@import url("http://education.mnhs.org/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?mocm7k");</style>
+<!--<![endif]-->
+  <script type="text/javascript" src="http://education.mnhs.org/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://education.mnhs.org/sites/default/files/js/js_LDA_hkHYO5oKj8zDCk7PX266O_ovBx08IKaZar1_pO0.js"></script>
+<script type="text/javascript" src="http://education.mnhs.org/sites/default/files/js/js_Q4rjoS0g_DdaBt5RvcsajnNTDgoktdI_XaEgj-gpyYY.js"></script>
+<script type="text/javascript" src="http://education.mnhs.org/sites/default/files/js/js_3deCPOIPIWUKMQdXp0ANMp3l9Jyz31MUaXrLQMz2xJ4.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://education.mnhs.org/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"education", "theme_token":"o84bQpgTdvUt5icvhSq984EOlQtEuTE3jL8XPLiSD7U", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "misc\u002Fajax.js":1, "sites\u002Fall\u002Fmodules\u002Ftablesorter\u002Ftablesortervar.js":1, "sites\u002Fall\u002Flibraries\u002Fcolorbox\u002Fcolorbox\u002Fjquery.colorbox-min.js":1, "sites\u002Fall\u002Fmodules\u002Fcolorbox\u002Fjs\u002Fcolorbox.js":1, "sites\u002Fall\u002Fmodules\u002Fcolorbox\u002Fjs\u002Fcolorbox_load.js":1, "sites\u002Fall\u002Fmodules\u002Fcolorbox_node\u002Fcolorbox_node.js":1, "misc\u002Fprogress.js":1, "sites\u002Fall\u002Fmodules\u002Fnice_menus\u002Fsuperfish\u002Fjs\u002Fsuperfish.js":1, "sites\u002Fall\u002Fmodules\u002Fnice_menus\u002Fsuperfish\u002Fjs\u002Fjquery.bgiframe.min.js":1, "sites\u002Fall\u002Fmodules\u002Fnice_menus\u002Fsuperfish\u002Fjs\u002Fjquery.hoverIntent.minified.js":1, "sites\u002Fall\u002Fmodules\u002Fnice_menus\u002Fnice_menus.js":1, "sites\u002Fall\u002Flibraries\u002Ftablesorter\u002Fjquery.tablesorter.min.js":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fjs\u002Fviews_slideshow.js":1, "sites\u002Fall\u002Flibraries\u002Fjquery.cycle\u002Fjquery.cycle.all.min.js":1, "sites\u002Fall\u002Fmodules\u002Fcolorbox\u002Fjs\u002Fcolorbox_inline.js":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fcontrib\u002Fviews_slideshow_cycle\u002Fjs\u002Fviews_slideshow_cycle.js":1, "https:\u002F\u002Fajax.googleapis.com\u002Fajax\u002Flibs\u002Fjquery\u002F1.7.2\u002Fjquery.min.js":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Fomega\u002Fjs\u002Fjquery.formalize.js":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Fomega\u002Fjs\u002Fomega-mediaqueries.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "modules\u002Faggregator\u002Faggregator.css":1, "sites\u002Fall\u002Fmodules\u002Fcalendar\u002Fcss\u002Fcalendar_multiday.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "sites\u002Fall\u002Fmodules\u002Fdate\u002Fdate_api\u002Fdate.css":1, "sites\u002Fall\u002Fmodules\u002Fdate\u002Fdate_popup\u002Fthemes\u002Fdatepicker.1.7.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Flibraries\u002Fcolorbox\u002Fexample3\u002Fcolorbox.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fmodules\u002Fnice_menus\u002Fnice_menus.css":1, "sites\u002Fall\u002Fmodules\u002Fnice_menus\u002Fnice_menus_default.css":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fviews_slideshow.css":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fcontrib\u002Fviews_slideshow_cycle\u002Fviews_slideshow_cycle.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Falpha\u002Fcss\u002Falpha-reset.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Falpha\u002Fcss\u002Falpha-mobile.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Falpha\u002Fcss\u002Falpha-alpha.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Fomega\u002Fcss\u002Fformalize.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Fomega\u002Fcss\u002Fomega-text.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Fomega\u002Fcss\u002Fomega-branding.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Fomega\u002Fcss\u002Fomega-menu.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Fomega\u002Fcss\u002Fomega-forms.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Fomega\u002Fcss\u002Fomega-visuals.css":1, "sites\u002Fall\u002Fthemes\u002Feducation\u002Fcss\u002Fglobal.css":1, "sites\u002Fall\u002Fthemes\u002Feducation\u002Fcss\u002Fprint.css":1, "ie::normal::sites\u002Fall\u002Fthemes\u002Feducation\u002Fcss\u002Feducation-alpha-default.css":1, "ie::normal::sites\u002Fall\u002Fthemes\u002Feducation\u002Fcss\u002Feducation-alpha-default-normal.css":1, "ie::normal::sites\u002Fall\u002Fthemes\u002Fomega\u002Falpha\u002Fcss\u002Fgrid\u002Falpha_default\u002Fnormal\u002Falpha-default-normal-12.css":1, "normal::sites\u002Fall\u002Fthemes\u002Feducation\u002Fcss\u002Feducation-alpha-default.css":1, "normal::sites\u002Fall\u002Fthemes\u002Feducation\u002Fcss\u002Feducation-alpha-default-normal.css":1, "sites\u002Fall\u002Fthemes\u002Fomega\u002Falpha\u002Fcss\u002Fgrid\u002Falpha_default\u002Fnormal\u002Falpha-default-normal-12.css":1}}, "colorbox":{"transition":"none", "speed":"350", "opacity":"0.85", "slideshow":false, "slideshowAuto":true, "slideshowSpeed":"2500", "slideshowStart":"start slideshow", "slideshowStop":"stop slideshow", "current":"{current} of {total}", "previous":"« Prev", "next":"Next »", "close":"Close", "overlayClose":true, "maxWidth":"100%", "maxHeight":"100%", "initialWidth":"300", "initialHeight":"100", "fixed":true, "scrolling":false, "__drupal_alter_by_ref":[ "sites\u002Fall\u002Flibraries\u002Fcolorbox\u002Fexample3" ]}, "nice_menus_options":{"delay":"800", "speed":"slow"}, "viewsSlideshow":{"hero-block":{"methods":{"goToSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "nextSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "pause":[ "viewsSlideshowControls", "viewsSlideshowCycle" ], "play":[ "viewsSlideshowControls", "viewsSlideshowCycle" ], "previousSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "transitionBegin":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter" ], "transitionEnd":[  ]}, "paused":0}}, "viewsSlideshowCycle":{"#views_slideshow_cycle_main_hero-block":{"num_divs":6, "id_prefix":"#views_slideshow_cycle_main_", "div_prefix":"#views_slideshow_cycle_div_", "vss_id":"hero-block", "effect":"fade", "transition_advanced":0, "timeout":5000, "speed":700, "delay":0, "sync":1, "random":0, "pause":0, "pause_on_click":0, "action_advanced":0, "start_paused":0, "remember_slide":0, "remember_slide_days":1, "pause_when_hidden":0, "pause_when_hidden_type":"full", "amount_allowed_visible":"", "nowrap":0, "fixed_height":1, "items_per_slide":1, "wait_for_image_load":1, "wait_for_image_load_timeout":3000, "cleartype":0, "cleartypenobg":0, "advanced_options":"{}"}}, "omega":{"layouts":{"primary":"normal", "order":[ "normal" ], "queries":{"normal":"all and (min-width: 740px) and (min-device-width: 740px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.client.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.topzindex.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.topzindex.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/swfobject.js"></script>
+
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.jmpopups-0.5.1.js"></script>
+
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.mhs_dropnav.js"></script>
+
+<!-- <script src="http://legacy.mnhs.org/sites/all/includes/ismobile.php" type="text/javascript"></script> -->
+
+<link rel="stylesheet" href="http://www.mnhs.org/web_assets/stylesheets/dropnav/drop-navigation.css" type="text/css" media="screen" />
+<!-- Reset -->
+<!-- Menu -->
+<!--[if IE 6]>
+<link rel="stylesheet" href="http://www.mnhs.org/web_assets/stylesheets/mega/ie/ie6.css" type="text/css" media="screen" />
+<![endif]-->
+<!--[if IE]>
+<style>
+#wrap-container {
+	background-image:none;
+}
+#wrap-container #search #keyword {
+	padding-top:3px;
+}
+
+</style>
+<![endif]-->
+<!--end global header-->
+
+
+
+
+<!-- <start of the shutdown code begins here-->
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.jmpopups-0.5.1.js"></script>
+<script type="text/javascript">
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+  {
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+function setCookie(c_name,value,exdays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate() + exdays);
+var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+document.cookie=c_name + "=" + c_value;
+}
+var date = new Date();
+var month = date.getMonth();
+var day = date.getDate();
+
+function checkCookie()
+{
+var sdnotice=getCookie("sdnotice");
+
+// month is one less than current array notaion
+if(month == "11" && day == "26"){
+	//openStaticPopup();
+	//alert('the day is correct');
+	if (sdnotice!=null && sdnotice!="")
+	  {
+	 // alert("Welcome again " + sdnotice);
+	  }
+	else{
+		setCookie("sdnotice",'true',1);
+		openStaticPopup();
+		}//end else
+	}//end if
+}//end check cookie
+
+			//<![CDATA[
+				$.setupJMPopups({
+					screenLockerBackground: "#000000",
+					screenLockerOpacity: "0.8"
+				});
+				function openStaticPopup() {
+					$.openPopupLayer({
+						name: "myStaticPopup",
+						width: 500,
+						target: "myHiddenDiv"
+					});
+				}
+				function openAjaxPopup() {
+					$.openPopupLayer({
+						name: "mySecondPopup",
+						width: 500,
+						url: "http://www.mnhs.org/shutdown-alert.html"
+					});
+				}
+			//]]>
+jQuery(document).ready(function($) {
+$.closePopupLayer('.close-link');
+checkCookie();
+});//end jQuery(document).ready(function($)
+</script>
+<!-- </end of the shutdown code here-->
+
+<style>
+#myHiddenDiv {
+display:none;
+width:200px;
+height:300px;
+background:#fff;
+border-radius:10px;
+position:relative;
+}
+.inner{position:relative;}
+.close-link{
+	border:0!important;
+	text-shadow:0;
+	text-decoration:none;
+	position:absolute!important;
+	bottom:-8px!important;
+	right:-15px!important;
+}
+</style>  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9226775-9']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="html front not-logged-in page-node page-node- page-node-1 node-type-page">
+<div id="wrap-container">
+    <div id="sub-link-bar"> </div><!-- End sub-link-bar -->
+    <div id="wrap">
+      <div id="main-handle">
+   		  <ul id="main-nav">
+	        <li><a class="reset-link plink" href="http://www.mnhs.org/members" target="_blank">Membership</a> </li>
+			<li><a class="main-link plink" href="http://sites.mnhs.org/support">Support</a>
+                  <ul class="sub-links" id="sub-support">
+                    <li><a href="http://www.mnhs.org/cf" title="">Corporate &amp; Foundation Giving</a> </li>
+                    <li><a href="http://www.mnhs-legacy.org" title="">Your Legacy</a> </li>
+                    <li><a href="http://www.mnhs.org/northstarcircle" title="">North Star Circle</a> </li>
+                    <li><a href="http://sites.mnhs.org/support/make-gift" title="">Make a Gift</a> </li>
+                    <li><a href="http://www.mnhs.org/members" title="">Membership</a> </li>
+                    <li><a href="http://www.mnhs.org/volunteer" title="">Volunteer</a> </li>
+                    <li><a href="http://sites.mnhs.org/support/sponsorship" title="">Sponsorship</a> </li>
+                  </ul>
+            </li>
+                <li><a class="reset-link plink" href="http://www.mnhs.org/newsletters/" target="_blank">eNews</a> </li>
+                <li><a class="main-link plink" href="http://shop.mnhs.org">Shop</a>
+                  <ul class="sub-links" id="sub-shop">
+                    <li><a href="http://people.mnhs.org/bci" title="">Birth Certificates</a> </li>
+                    <li><a href="http://people.mnhs.org/dci" title="">Death Certificates</a> </li>
+				    <li><a href="http://www.mnhs.org/photos" title="">Photos</a> </li>
+                    <li><a href="http://shop.mnhs.org" title="">Books and Gifts</a> </li>
+                    <li><a href="http://tickets.mnhs.org" title="">Tickets</a> </li>
+                    <li><a href="http://www.mhspress.org" title="">MHS Press</a> </li>
+                    <li><a href="http://www.mnhs.org/mnhistory" title="">MN History Magazine</a> </li>
+                  </ul>
+                </li>
+               <li>
+               <div id="search">
+
+<form method="get" id="global-search-form" action="http://greatriversnetwork.org/index.php">
+  <input class="input-box" type="text" name="q" maxlength="75" accesskey="q" size="75" value="" />
+  <input class="searchKeyword" onclick="submit(); return true" value="Search" alt="Search" name="button" type="button" />
+  <div class="quick-radio">
+    <div class="website-input">
+	<input type="radio" name="formgroup" value="websites" checked="checked" /> &nbsp;Websites
+	</div>
+    <div class="collections-input">
+    <input type="radio" name="formgroup" value="collections" /> &nbsp;Research Collections
+	</div>
+  </div>
+</form>
+
+            </div><!--end #search-->
+			</li>
+          </ul>
+        </div><!-- End main-handle-->
+	    <div class="clear"></div>
+
+        <div id="logopos">
+        <a href="http://www.mnhs.org"><img src="http://www.mnhs.org/web_assets/mhs-logo-145-white.png" alt="Minnesota Historical Society Logo" id="mhs-logo"/></a>
+        </div>
+
+
+    </div><!-- End wrap -->
+    <div class="clear"></div>
+</div><!-- End wrap-container-->
+<div class="clear"></div>
+
+<!--
+<div id="myHiddenDiv">
+<div class="inner">
+<img src="http://www.mnhs.org/web_assets/12-26-mask.jpg" border="0" usemap="#Map2" />
+    <map name="Map2" id="Map2">
+      <area shape="rect" coords="119,178,489,255" href="http://www.usdakotawar.org/history/war-aftermath/trials-hanging" />
+    </map>
+	<a href="javascript:;" onclick="$.closePopupLayer('myStaticPopup')" title="Close" class="close-link"><img src="http://www.mnhs.org/web_assets/close-btn.png" /></a></p> 
+</div>
+</div>
+-->
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-10 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="block block-block block-26 block-block-26 odd block-without-title" id="block-block-26">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <img src="/sites/default/files/design/historyEducationMN-title.png" class="print-only" />
+    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-2 region region-branding-logo" id="region-branding-logo">
+  <div class="region-inner region-branding-logo-inner">
+      </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-nice-menus block-1 block-nice-menus-1 odd block-without-title" id="block-nice-menus-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-387 menu-path-front  first   odd  "><a href="/" title="Education" class="active">Education</a></li>
+<li class="menu-218 menu-path-front   even  "><a href="/" class="active">Home</a></li>
+<li class="menu-352 menuparent  menu-path-node-2   odd  "><a href="/educators" title="Educators">Educators</a><ul><li class="menu-539 menu-path-standards  first   odd  "><a href="/standards" title="Standards">Standards</a></li>
+<li class="menu-899 menu-path-node-27   even  "><a href="/field-trips" title="">Field Trips</a></li>
+<li class="menu-547 menu-path-educationmnhsorg-historyday   odd  "><a href="http://education.mnhs.org/historyday" title="History Day">History Day</a></li>
+<li class="menu-1140 menu-path-node-870   even  "><a href="/history-live">History Live</a></li>
+<li class="menu-1188 menu-path-node-952   odd  "><a href="/northern-lights">Northern Lights</a></li>
+<li class="menu-898 menu-path-node-259   even  "><a href="/scholarships-and-subsidies">Scholarships and Subsidies</a></li>
+<li class="menu-900 menu-path-node-95   odd   last "><a href="/teacher-workshops">Teacher Workshops</a></li>
+</ul></li>
+<li class="menu-353 menu-path-node-3   even  "><a href="/students" title="Students">Students</a></li>
+<li class="menu-354 menu-path-node-4   odd  "><a href="/families" title="Families">Families</a></li>
+<li class="menu-388 menu-path-node-27   even  "><a href="/field-trips" title="Field Trips">Field Trips</a></li>
+<li class="menu-532 menu-path-research   odd   last "><a href="/research" title="Research">Research</a></li>
+</ul>
+    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+    
+  <div id="zone-yearbook" class="zone zone-yearbook clearfix container-12">
+    <div class="grid-12 region region-yearbook" id="region-yearbook">
+  <div class="region-inner region-yearbook-inner">
+    <div class="block block-views block-yearbook-block block-views-yearbook-block odd block-without-title" id="block-views-yearbook-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-yearbook view-id-yearbook view-display-id-block view-dom-id-84b74bf90a99c775d4973994d70e7b4e">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-9" class="views-view-grid">
+  
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-1" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_Audrey0311.jpg?itok=rJBw4ADX" width="100" height="130" alt="Audrey" /></a><div style="display: none;"><div id="colorbox-inline-1"><div class="yearbook">
+<div class="yearbook-image"><a href="/audrey"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_Audrey0311.jpg?itok=5iGfYcLV" width="350" height="455" alt="Audrey" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">“The old arithmetic book was cool because it looked like it had been used well.”</div>
+<div class="yearbook-name">- Audrey</div>
+<div class="yearbook-body">You’ll find an amazing collection of Minnesota-related books, pamphlets, serials, microfilm and newspapers at our library. Researchers of all ages are welcome -- and it’s free! </div>
+<div class="yearbook-link"><a href="http://sites.mnhs.org/library/content/faq#general">Library</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-2" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_Annika0441_0.jpg?itok=lHUg7sU3" width="100" height="130" alt="Annika" /></a><div style="display: none;"><div id="colorbox-inline-2"><div class="yearbook">
+<div class="yearbook-image"><a href="/annika"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_Annika0441.jpg?itok=wby5Q0Un" width="350" height="455" alt="Annika" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">“I learned that this contraption makes it easier to catch chickens without them running away.”</div>
+<div class="yearbook-name">- Annika</div>
+<div class="yearbook-body">Seeing history first-hand helps kids connect with the past. The Minnesota Historical Society offers field trip programs around the state, and a limited number of scholarships are available.</div>
+<div class="yearbook-link"><a href="http://www.mnhs.org/scholarships">Scholarships</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-3" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_Emily0270.jpg?itok=NiURD8OX" width="100" height="130" alt="Emily" /></a><div style="display: none;"><div id="colorbox-inline-3"><div class="yearbook">
+<div class="yearbook-image"><a href="/emily"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_Emily0276.jpg?itok=XxzWhh7C" width="350" height="455" alt="Emily" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">“I will remember this field trip!”  </div>
+<div class="yearbook-name">- Emily</div>
+<div class="yearbook-body">A field trip can make a lifelong impression on a child. The Minnesota Historical Society offers a variety of field trip programs at our historic sites and museums around the state.</div>
+<div class="yearbook-link"><a href="http://www.mnhs.org/fieldtrips">Field Trips</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+                  <td class="col-4">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-4" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_Emma0452.jpg?itok=IuYwnlPO" width="100" height="130" alt="Emma" /></a><div style="display: none;"><div id="colorbox-inline-4"><div class="yearbook">
+<div class="yearbook-image"><a href="/emma"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_Emma0548.jpg?itok=MCtxXVhE" width="350" height="455" alt="Emma" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">“I didn’t know we had ice skates back then.”</div>
+<div class="yearbook-name">- Emma</div>
+<div class="yearbook-body">You don’t have to come to the Minnesota History Center to see our collections -- look at them online. It’s a great way to find photographs, 3D objects, artwork, oral histories, videos, maps, and more.</div>
+<div class="yearbook-link"><a href="http://greatriversnetwork.org/index.php?brand=cms%29">Collections Online</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+                  <td class="col-5">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-5" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_teen_girl_headscarf.jpg?itok=VdJE5V8u" width="100" height="130" alt="Najma" /></a><div style="display: none;"><div id="colorbox-inline-5"><div class="yearbook">
+<div class="yearbook-image"><a href="/najma"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_teen_girl_headscarf.jpg?itok=Vy_GZi-6" width="350" height="455" alt="Najma" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">“When you use technology to access history, it&#039;s more exciting.”</div>
+<div class="yearbook-name">- Najma</div>
+<div class="yearbook-body">We&#039;re always exploring new ways to engage students, like a history game app that&#039;s now in testing. Stay informed about our latest offerings by subscribing to our free education e-newsletter.</div>
+<div class="yearbook-link"><a href="http://www.mnhs.org/newsletters/">Education E-Newsletter</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+                  <td class="col-6">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-6" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_McKenzie0323.jpg?itok=FckoXmwE" width="100" height="130" alt="McKenzie" /></a><div style="display: none;"><div id="colorbox-inline-6"><div class="yearbook">
+<div class="yearbook-image"><a href="/mckenzie"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_McKenzie0323.jpg?itok=8_J5QAwJ" width="350" height="455" alt="McKenzie" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">&quot;These ice skates are cool because you don’t have to tie them, you just slip them on.”</div>
+<div class="yearbook-name">- McKenzie</div>
+<div class="yearbook-body">Artifacts are one way to help kids learn about history. Technology is another. The Minnesota Historical Society offers a variety of online resources designed for both students and teachers.</div>
+<div class="yearbook-link"><a href="http://www.mnhs.org/school/online/index.html">Online Resources</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+                  <td class="col-7">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-7" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_Samanth0384.jpg?itok=BGr-vvZ1" width="100" height="130" alt="Samanth" /></a><div style="display: none;"><div id="colorbox-inline-7"><div class="yearbook">
+<div class="yearbook-image"><a href="/samanth"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_Samanth0384.jpg?itok=usAvhMpE" width="350" height="455" alt="Samanth" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">“The History Center has a lot of cool artifacts and exhibits.”</div>
+<div class="yearbook-name">- Samanth</div>
+<div class="yearbook-body">The Minnesota History Center is an interactive museum with both permanent and changing exhibits. It also hosts concerts, lectures, family days and other special events throughout the year. </div>
+<div class="yearbook-link"><a href="http://www.minnesotahistorycenter.org">Minnesota History Center</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+                  <td class="col-8">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-8" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_teen_boy_black.jpg?itok=l93XJDuQ" width="100" height="130" alt="Shujaa" /></a><div style="display: none;"><div id="colorbox-inline-8"><div class="yearbook">
+<div class="yearbook-image"><a href="/shujaa"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_teen_boy_black.jpg?itok=TWsbR_f6" width="350" height="455" alt="Shujaa" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">“When you learn about your family history, you learn about yourself.”</div>
+<div class="yearbook-name">- Shujaa</div>
+<div class="yearbook-body">Students can research genealogy -- or any Minnesota history topic -- at the Minnesota Historical Society&#039;s Gale Family Library. It&#039;s free, and researchers of all ages are welcome.</div>
+<div class="yearbook-link"><a href="http://sites.mnhs.org/library/node/6#general">Library</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+                  <td class="col-9 col-last">
+              
+  <div class="views-field views-field-colorbox">        <span class="field-content"><a href="/?width=650px&amp;height=475px&amp;inline=true#colorbox-inline-9" class="colorbox-inline" rel="gallery-yearbook"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_thumb/public/yrbk_headshots_Lydia0237.jpg?itok=gkkwMKKA" width="100" height="130" alt="Lydia" /></a><div style="display: none;"><div id="colorbox-inline-9"><div class="yearbook">
+<div class="yearbook-image"><a href="/lydia-0"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/yearbook_colorbox/public/yrbk_portraits_Lydia0424.jpg?itok=g7bVvqKr" width="350" height="455" alt="" /></a></div>
+<div class="yearbook-text">
+<div class="yearbook-quote">“I liked the really big hail stone in the weather exhibit.”</div>
+<div class="yearbook-name">- Lydia</div>
+<div class="yearbook-body">The History Center’s Weather Permitting exhibit lets students experience Minnesota’s weather events the safe way – indoors! Kids can ride out the Fridley tornado in a re-created 1960s basement.</div>
+<div class="yearbook-link"><a href="http://www.minnesotahistorycenter.org/exhibits/weather-permitting">Weather Permitting</a></div>
+</div>
+</div></div></div></span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+<div id="zone-preface-wrapper" class="zone-wrapper zone-preface-wrapper clearfix">  
+  <div id="zone-preface" class="zone zone-preface clearfix container-12">
+    <div class="grid-8 region region-preface-first" id="region-preface-first">
+  <div class="region-inner region-preface-first-inner">
+    <div class="block block-views block-hero-block block-views-hero-block odd block-without-title" id="block-views-hero-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-hero view-id-hero view-display-id-block view-dom-id-c4dff8bd6127d2f294265e5322dd6a5c">
+        
+  
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+  
+  <div id="views_slideshow_cycle_main_hero-block" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_hero-block" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_hero-block_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-hero-image">        <div class="field-content"><a href="http://education.mnhs.org/then-now-wow-0"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/Ed-homepg_heros-Nov12-2.jpg" width="620" height="200" alt="Then Now Wow - Now on View!" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_hero-block_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-hero-image">        <div class="field-content"><a href="http://sites.mnhs.org/support/membership/minnesota-historical-society-teacher-membership"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/Ed-homepg_heros-Oct12_mbrs.jpg" width="620" height="200" alt="Educators get complete member benefits at a reduced rate" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_hero-block_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-hero-image">        <div class="field-content"><a href="http://education.mnhs.org/historyday/"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/Ed-homepg_heros-Oct12_HDay.jpg" width="620" height="200" alt="National History Day in Minnesota" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_hero-block_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-hero-image">        <div class="field-content"><a href="http://education.mnhs.org/field-trips"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/Ed-homepg_heros-Oct12_fieldtrips.jpg" width="620" height="200" alt="Ignite their interest in history on a field trip." /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_hero-block_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-hero-image">        <div class="field-content"><a href="http://education.mnhs.org/workshops"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/Ed-homepg_heros-Sept12_TED.JPG" width="620" height="200" alt="Don&#039;t miss the boat—register now for teacher workshops." /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_hero-block_5" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-hero-image">        <div class="field-content"><a href="http://www.minnesotahistorycenter.org/scholarships"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/Ed-website_launch-heros_grants.jpg" width="620" height="200" alt="Grants Available for Field Trip Transportation and Lodging" /></a></div>  </div></div>
+</div>
+</div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-4 region region-preface-second" id="region-preface-second">
+  <div class="region-inner region-preface-second-inner">
+    <div class="block block-menu block-menu-hp-audience-menu block-menu-menu-hp-audience-menu odd block-without-title" id="block-menu-menu-hp-audience-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/educators" title="Educators">Educators</a></li>
+<li class="leaf"><a href="/students" title="Students">Students</a></li>
+<li class="last leaf"><a href="/families" title="Families">Families</a></li>
+</ul>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+            <div class="element-invisible">    <h1 class="title" id="page-title">Home</h1>
+    </div>                    <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <article about="/home" typeof="foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-page-1">
+            
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div><div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
+  <div id="zone-postscript" class="zone zone-postscript clearfix container-12">
+    <div class="grid-3 region region-postscript-first" id="region-postscript-first">
+  <div class="region-inner region-postscript-first-inner">
+    <div class="block block-views block-block-list-block block-views-block-list-block odd block-without-title" id="block-views-block-list-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-block-list view-id-block_list view-display-id-block block-list view-dom-id-22668b035cbb1b1807e0b0c04dad93b2">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Quick Links</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><a href="http://www.mnhs.org/historyday">History Day</a></p>
+<p><a href="http://education.mnhs.org/subsidies">Subsidies</a></p>
+<p><a href="http://education.mnhs.org/workshops">History Workshops for Teachers</a></p>
+<p><a href="http://education.mnhs.org/civil-war">Civil War</a></p>
+<p><a href="http://www.usdakotawar.org/">U.S.-Dakota War</a></p>
+<p><a href="http://sites.mnhs.org/civil-war/dear-president-lincoln">Dear President Lincoln - Student Writing Contest</a></p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-postscript-second" id="region-postscript-second">
+  <div class="region-inner region-postscript-second-inner">
+    <div class="block block-views block-block-block-1 block-views-block-block-1 odd block-without-title" id="block-views-block-block-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-block view-id-block view-display-id-block_1 view-dom-id-84fdce823837f2ba38c7731c60d299ab">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-blockvis-image">        <div class="field-content"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/styles/block_image/public/forestville220.jpg?itok=1dg8j7jV" width="220" height="220" alt="Historic Forestville field trip" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://education.mnhs.org/field-trips/historic-forestville">Historic Forestville field trip</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-postscript-third" id="region-postscript-third">
+  <div class="region-inner region-postscript-third-inner">
+    <div class="block block-views block-ddcb2013dd9ababdeed03293cdaa8dfa block-views-ddcb2013dd9ababdeed03293cdaa8dfa odd block-without-title" id="block-views-ddcb2013dd9ababdeed03293cdaa8dfa">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-block-visual-large-title- view-id-block_visual_large_title_ view-display-id-block_1 blockvis-lg-title view-dom-id-98d22b0c8e8f976de451f46c79fbf40f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://education.mnhs.org/shoulderbag/">Products</a></span>  </div>  
+  <div class="views-field views-field-field-blockvislg-image">        <div class="field-content"><a href="http://education.mnhs.org/shoulderbag/"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/product_test.jpg" width="220" height="220" alt="Ojibwe Shoulderbag Kit" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-postscript-fourth" id="region-postscript-fourth">
+  <div class="region-inner region-postscript-fourth-inner">
+    <div class="block block-views block-block-quote-statistic-block block-views-block-quote-statistic-block odd block-without-title" id="block-views-block-quote-statistic-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-block-quote-statistic view-id-block_quote_statistic view-display-id-block view-dom-id-1dc5a2de1eef8c53c4f11261cb7a182a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-quote-image">        <div class="field-content"><img typeof="foaf:Image" src="http://education.mnhs.org/sites/default/files/quotebox3_0.jpg" width="220" height="250" alt="The field trip connected beautifully with our curriculum." /></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-wordtheme-wrapper" class="zone-wrapper zone-wordtheme-wrapper clearfix">  
+  <div id="zone-wordtheme" class="zone zone-wordtheme clearfix container-12">
+    <div class="grid-12 region region-wordtheme" id="region-wordtheme">
+  <div class="region-inner region-wordtheme-inner">
+      </div>
+</div>  </div>
+</div><div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-block block-6 block-block-6 odd block-without-title" id="block-block-6">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <address class="footer-address">Minnesota Historical Society • 345 W. Kellogg Blvd., St. Paul, MN 55102-1906 • 651-259-3000 <a href="http://www.mnhs.org/mhsuse.html">©<script type="text/javascript" language="Javascript">// <![CDATA[
+var now = new Date();document.write(now.getFullYear());
+// ]]></script>MHS</a>. <br />Send questions or comments to <a href="mailto:webmaster@mnhs.org">webmaster@mnhs.org</a>. View our <a href="http://www.mnhs.org/privacy.html">Privacy Policy</a>.</address>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+    <div style="display:none"><div id="cboxNode"></div></div><div id="cboxNodeJS"></div>  </div>
+</div></body>
+</html>

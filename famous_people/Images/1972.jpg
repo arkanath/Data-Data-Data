@@ -1,0 +1,862 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7 ]> <html lang="en" class="ieAll ie6"> <![endif]-->
+<!--[if IE 7 ]> <html lang="en" class="ieAll ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="ieAll ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Lycos is your source for all the Web has to offer - search, free online games, e-mail, build free websites, videos &amp; movies, news, weather and more."/>
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale = 1.0" />
+<link rel="stylesheet" type="text/css" href="http://ly.lygo.com/ly/lycos/2/css/hp-modules.css" />
+<title>Lycos</title>
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	
+		
+					_gaq.push(['_setAccount', 'UA-2342215-4']);
+		        
+	    _gaq.push(['_setDomainName', 'none']);
+	    _gaq.push(['_setAllowLinker', true]);
+	    _gaq.push(['_setAllowHash', false]);
+	    _gaq.push(['_trackPageview']);
+	
+
+		
+	_gaq.push(['lycosrollup._setAccount', 'UA-2342215-2']);	
+	_gaq.push(['lycosrollup._setDomainName', 'none']);
+	_gaq.push(['lycosrollup._setAllowLinker', true]);
+	_gaq.push(['lycosrollup._setAllowHash', false]);
+	_gaq.push(['lycosrollup._trackPageview']);
+	
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script><script type="text/javascript">
+var lycos = {
+	cookie_domain: 'lycos.com',
+	measurement: 'standard'
+};
+</script>
+<!--[if lt IE 9]> 
+	<script src="http://ly.lygo.com/ly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link href="http://ly.lygo.com/ly/lycos/2/css/lyStyle.css" rel="stylesheet" type="text/css" />
+<link href="http://ly.lygo.com/ly/lycos/2/css/themes/light.css" rel="stylesheet" type="text/css" id="theme" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://ly.lygo.com/ly/lycos/2/images/57x57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="http://ly.lygo.com/ly/lycos/2/images/72x72.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="http://ly.lygo.com/ly/lycos/2/images/114x114.png"/>
+<meta name="msapplication-TileImage" content="http://ly.lygo.com/ly/lycos/2/images/57x57.png" />
+<meta name="msapplication-TileColor" content="#4a92fd" />
+<link rel="icon" type="image/png" href="http://ly.lygo.com/ly/lycos/2/images/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" title="Lycos Web Search" href="http://www.lycos.com/opensearch.xml">
+
+
+</head>
+
+<body class="lyGrey ">
+<script type="text/javascript" src="http://ly.lygo.com/ly/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="http://ly.lygo.com/ly/lycos/2/js/jquery.cookie.js"></script>
+<!-- catman head -->	
+<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var cm_host = "lycos.com";
+			var cm_taxid = "/homepage";
+		//--><!]]>
+</script>
+<script src="http://scripts.lycos.com/catman/init.js" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var objAdMgr;
+	if (this.AdManager) {objAdMgr = new AdManager();}
+	if (this.objAdMgr) {
+	    objAdMgr.setParam("page", "ros");
+	    objAdMgr.chooseProductSet();
+	    objAdMgr.renderHeader();
+	}
+	//--><!]]>
+</script>
+<!-- END catman head -->
+<script type="text/javascript" src="http://ly.lygo.com/ly/lycos/2/js/dog.js"></script>
+			<script type="text/javascript" src="http://ly.lygo.com/ly/lycos/2/js/home.js"></script>
+	<script type="text/javascript" src="http://ly.lygo.com/ly/lycos/2/js/respond.min.js"></script>
+<!-- Respond.js proxy on external server -->
+	<link href="http://ly.lygo.com/ly/lycos/2/js/respond/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+	<link href="/js/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+	<script type="text/javascript" src="/js/respond.proxy.js"></script>
+<div id="page">
+<section id="topBar" class="lyGrey boxPad">
+	<a href="http://www.lycos.com" title="Lycos.com" class="sprite mobileHide" id="lyDog"></a>
+	<ul class="lyMenu float_left">
+    	<li><a href="http://search.lycos.com" title="Lycos.com" class="currentPage">Search</a></li>
+					<li><a href="http://mail.lycos.com" title="mail.lycos.com/">Mail</a></li>
+			<li class="mobileHide"><a href="http://www.tripod.lycos.com" title="Tripod">Tripod</a></li>
+			<li class="mobileHide"><a href="http://www.gamesville.com/" title="Gamesville.com">Gamesville</a></li>
+	            <li>
+        	<a href="#" title="More Lycos Sites" class="dropDown">More <span class="sprite"></span></a>
+        	<ul class="hide ddMenu lyGrey boxShadow1">
+                <li class="mobileShow"><a href="http://www.tripod.lycos.com" title="Tripod">Tripod</a></li>
+                <li class="mobileShow"><a href="http://www.gamesville.com/" title="Gamesville.com">Gamesville</a></li>
+									<li><a href="http://domains.lycos.com/" title="Lycos Domains">Lycos Domains</a></li>
+					<li><a href="http://news.lycos.com" title="Lycos News">Lycos News</a></li>
+				                <li><a href="http://shopping.lycos.com" title="Lycos Shopping">Lycos Shopping</a></li>					
+					                <li><a href="http://weather.lycos.com" title="Lycos Weather">Lycos Weather</a></li>
+								
+               				   <li><a href="http://www.whowhere.com/" title="WhoWhere?">WhoWhere?</a></li>
+			   			   
+									<li><a href="http://chat.lycos.co.uk" title="Lycos Chat">Lycos Chat</a></li>
+								
+                <li><a href="http://info.lycos.com/about/products" title="View All" id="viewAll">View All</a></li>
+            </ul>
+        </li>
+    </ul>
+    <!-- survey button area 
+  	<a href="http://www.surveymonkey.com/s/5NHBMLY" title="Take our quick survey" class="feedback" target="_blank">Survey</a>
+    -->
+    <ul id="lyLogin" class="lyMenu float_right" style="padding-right:5px">
+    	<li><a href="http://www.lycos.com/settings" title="Launch Options">Settings</a></li>
+    </ul>
+<br class="clear" />
+</section>
+
+<header id="header">
+		<form action="http://search.lycos.com/web" method="get" id="lySearch" class="clr" >
+    		<label for="searchArea" class="float_left">
+                					<img src="http://ly.lygo.com/ly/lycos/2/images/logos/logo-inc_en.png" alt="Lycos Logo" />
+				            </label>
+        <fieldset class="float_left">
+            <input type="text" placeholder="Enter search term..." class="inputArea float_left boxPad" id="searchArea" autofocus="" name="q" value="" />
+            <input type="submit" id="lySubmit" class="lyGrey sprite" value="Submit" />
+             <br class="clear" />
+                <nav class="searchActions">
+			<ul class="searchTabs txt_center">
+				<li class="mCenter"><a href="#" title="Search The Web" id="searchWeb" class="selected">Web</a></li>
+				<li class="mCenter"><a href="#" title="Search for Images" id="searchImages" class="">Images</a></li>
+				<li class="mCenter"><a href="#" title="Search for Videos" id="searchVideos" class="">Videos</a></li>
+								<li class="mCenter ddMobile mobileRelative">
+				<a href="#" title="More Search Types" id="searchMore" class="dropDown mobileShow last">More <span class="sprite"></span></a>
+				<ul class="mobileHide ddMenu txt_left">
+					<li><a href="#" title="Search News" id="searchNews" class="ddItem ">News</a></li>
+					<li><a href="#" title="Search Shopping" id="searchShopping" class="ddItem ">Shopping</a></li>					<li><a href="#" title="Search Weather" id="searchWeather" class="ddItem last ">Weather</a></li>
+				</ul>
+				</li>
+							</ul>
+        </nav>
+	            </fieldset>  
+        	  
+      <script type="text/javascript">document.write('<input type="hidden" name="keyvol" value="000a630b8d5ba33a39b3" />');</script>
+    </form>
+    
+    <section id="blockReveal" class="hide">
+		<a href="#" title="Go get it" id="revealGo" class="overflow">
+            <img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Reveal Blocks" class="sprite float_left" id="revImg" />
+            <p class="float_left">
+                Click to reveal more content.            </p>
+        </a>
+	</section>
+     <br class="clear hide ie7show" />
+</header>
+
+<section id="lyContain" class="overflow">
+		
+<section id="blocks" class="blocksExpand">
+	<ul class="blocksContain overflow">
+					<li>
+				<a href="http://mail.lycos.com/" title="Launch Lycos Mail Block" class="lycosMail" id="lycosMail">
+					<h3 class="title"><span>Mail</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/mail.jpg" alt="Check your Lycos Mail" class="img" />
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+					<p class="text">Check your Lycos Mail!</p>
+				</a>
+			</li>
+				   
+					<li>
+				<a href="http://news.lycos.com" title="Launch Lycos News Block" class="blockBtn lycosNews noJump" id="lycosNews">
+					<h3 class="title"><span>News</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos News" class="trans" />
+					<p class="text headline">Edward Snowden Spy Scandal: GCHQ 'Used Fake Internet Cafes to Tap G20 Delegates'</p>
+				</a>
+			</li>
+		
+				
+		   
+					<li>
+				<a href="http://weather.lycos.com" title="Launch Lycos Weather Block" class="blockBtn noJump lycosWeather night_clear" id="lycosWeather">
+					<h3 class="title"><span>Weather</span><span id="cORf">&deg;F</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos Weather" class="trans" />
+				
+					
+					<img src="http://ly.lygo.com/ly/lycos/2/images/weather/noWeather.jpg" alt="No weather found" class="img" id="noWeatherIcon" style="display:none;" />
+	
+					<p class="temp">64&deg;</p>
+                   
+					<p class="temp hide">Null</p>
+				</a>
+			</li>
+		        
+       		   
+					<li>
+				<a href="http://video.lycos.com/" title="Launch Lycos Entertainment Block" class="blockBtn lycosEnt noJump" id="lycosEnt">
+					<h3 class="title"><span>Entertainment</span></h3>
+					<img src="http://video.lycos.com/img/12/185612-amanda-bynes.jpg" alt="Lycos Entertainment" class="img ieHide" />
+					<!--[if lte IE 7]> 
+					<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/ie7Ent.jpg" alt="Lycos Entertainment" class="img" />
+					<![endif]-->
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+		
+				   
+					<li>
+				<a href="http://www.gamesville.com/" title="Launch Gamesville Block" class="blockBtn lycosGV noJump" id="lycosGV">
+					<h3 class="title"><span>Gamesville</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/gv.jpg" alt="Gamesville" class="img" />
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+					<p class="text">Play free games &amp; win:</p>
+					<p class="price">$1,347</p>				</a>
+			</li>
+				   
+				
+		        
+        		   
+					<li>
+				<a href="http://www.youtube.com/" title="Launch YouTube Block" class="blockBtn youTubeBlock noJump" id="lycosYouTube" rel="nofollow">
+					<h3 class="title"><span>YouTube Videos</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/youTube.jpg" alt="Top YouTube Videos" class="img" />
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+		
+		        
+        <!-- rename this fruit frenzy -->
+        			<li>
+				<a href="" title="Fruit Frenzy" class="blockBtn lycosRealCashCritters noJump" id="lycosRealCashCritters">
+					<h3 class="title"><span>Fruit Frenzy</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/fruit/lycosHomeBlock_FruitFrenzy.jpg" alt="Fruit Frenzy" class="img" />
+                    <img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+		        
+        <!--
+        			<li>
+				<a href="" title="Launch Reel Cash Critters Block" class="blockBtn lycosRealCashCritters noJump" id="lycosRealCashCritters">
+					<h3 class="title"><span>Reel Cash Critters</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/rcc.jpg" alt="Reel Cash Critters" class="img" />
+                    <img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+		        -->
+        
+	 				<li>
+				<a href="http://www.tripod.lycos.com" title="Launch Tripod Block" class="blockBtn lycosBuild noJump" id="lycosBuild">
+					<h3 class="title"><span>Web Publishing</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/tripod.jpg" alt="Build a website with Zeeblio on Tripod" class="img" />
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+		        
+        			<li>
+				<a href="" title="Launch Evincible Block" class="blockBtn lycosEvincible noJump" id="lycosEvincible">
+					<h3 class="title"><span>Evincible</span></h3>
+                    <img src="http://ly.lygo.com/ly/lycos/2/images/blocks/evincible.jpg" alt="Evincible" class="img" />
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+		           
+					<li>
+				<a href="http://shopping.lycos.com" title="Launch Lycos Shopping Block" class="blockBtn lycosShopp noJump" id="lycosShopp">
+					<h3 class="title"><span>Shopping</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/shopping.jpg" alt="Lycos Shopping" class="img" />
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+		
+				 
+					<li>
+				<a href="/politics" title="Launch Lycos Politics Block" class="blockBtn lycosElections noJump" id="lycosElections">
+					<h3 class="title"><span>Politics</span></h3>
+                   	<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/election.jpg" alt="Politics" class="img" />
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+				  
+		
+					<li>
+				<a href="http://www.facebook.com/LycosSearch" title="Follow Lycos Properties" class="blockBtn noJump" id="lycosFollowLycos">
+					<h3 class="title"><span>Follow Us</span></h3>
+					<img src="http://ly.lygo.com/ly/lycos/2/images/blocks/followUs.jpg" alt="Follow Lycos Properties" class="img" />
+					<img src="http://ly.lygo.com/ly/lycos/2/images/trans.gif" alt="Lycos.com" class="trans" />
+				</a>
+			</li>
+					
+			</ul>
+</section> <!-- #blocks -->
+    
+<section id="content" class="hide">
+	<div class="titleDiv lyGrey">
+		<h2>title</h2>
+		<nav class="blockNav">
+			<a href="#" title="Previous Block" class="pnBtn float_left sprite" id="prev">Previous</a>
+			<a href="#" title="Next Block" class="pnBtn float_left sprite" id="next">Next</a>
+			<a href="#" title="Close block" class="pnBtn float_left sprite" id="close">Close</a>
+		</nav>
+	</div>
+  
+  			<article id="lycosWeatherArea" class="contentDisplay overflow hide">
+				<form action="#" method="get" class="contentForm" id="changeWeatherLocationForm">
+			<fieldset>
+            	<span class="iefloat_left">
+				<label for="weatherAreaLocation" class="mobileHide">Location</label>
+				<input type="text" placeholder="Enter ZIP or City &amp; State/Country" class="inputArea" id="weatherAreaLocation" name="location" value="Boardman, OR" />
+				<input type="submit" class="btn" value="Go" />
+                </span>
+                <a href="#" title="Change temperature to F" class="float_right btn deg btnF changeTemp selected" id="changeTemp">F</a>
+                <a href="#" title="Change temperature to C" class="float_right btn deg btnC changeTemp " id="changeTempC">C</a>
+                
+			</fieldset>
+        </form>
+	    
+		<div id="lycosWeatherContent"></div>
+		<nav class="bottomNav overflow">
+			<a href="http://www.accuweather.com/" rel="nofollow" class="float_left btn" title="Weather data provided by accuweather.com" target="_blank">Data provided by Accuweather</a>
+			
+							<a href="http://weather.lycos.com" title="Visit Lycos Weather for more detailed forecasts" class="float_right btn">Lycos Weather</a>
+					</nav>
+	</article>
+	     
+		<article id="lycosShoppArea" class="contentDisplay overflow hide">
+		<nav>
+			<ul class="lyMenu jsMenu overflow">
+									<li><a href="http://shopping.lycos.com" title="Popular" class="selected" onclick="return loadShoppingModule('t', 0, 1);">Popular</a></li>
+					<li><a href="http://shopping.lycos.com/category/p/13/laptops" title="Computers" onclick="return loadShoppingModule('p', 13, 1);">Computers</a></li>
+					<li><a href="http://shopping.lycos.com/category/p/197/plasma-and-lcd-tvs" title="TVs" onclick="return loadShoppingModule('p', 197, 1);">TVs</a></li>
+					<li><a href="http://shopping.lycos.com/category/t/12/clothing" title="Clothing" onclick="return loadShoppingModule('t', 12, 1);">Clothing</a></li>
+					<li><a href="http://shopping.lycos.com/category/c/47/toys" title="Toys" onclick="return loadShoppingModule('c', 47, 1);">Toys</a></li>
+							</ul>
+		</nav>
+
+		<div id="lycosShoppingContent"></div>
+		<nav class="bottomNav overflow">
+			<ul class="float_left">
+				<li><a href="" class="slideBtn selected" title="Page 1" onclick="return loadShoppingModule(shoppingModuleCurrentCategoryType, shoppingModuleCurrentCategoryId, 1);">1</a></li>
+				<li><a href="" class="slideBtn" title="Page 2" onclick="return loadShoppingModule(shoppingModuleCurrentCategoryType, shoppingModuleCurrentCategoryId, 2);">2</a></li>
+				<li><a href="" class="slideBtn" title="Page 3" onclick="return loadShoppingModule(shoppingModuleCurrentCategoryType, shoppingModuleCurrentCategoryId, 3);">3</a></li>
+				<li><a href="" class="slideBtn" title="Page 4" onclick="return loadShoppingModule(shoppingModuleCurrentCategoryType, shoppingModuleCurrentCategoryId, 4);">4</a></li>
+			</ul>
+			<a href="http://shopping.lycos.com" title="View all listings on Lycos Shopping" class="float_right btn" id="moreProductsButton">More Products</a>
+		</nav>
+	</article>
+	
+		
+		
+	
+	
+	
+	 
+	<article id="lycosElectionsArea" class="contentDisplay overflow hide">
+		<div id="lycosElectionsContent"></div>
+	</article>
+		
+	 
+	<article id="lycosFollowLycosArea" class="contentDisplay overflow hide">
+				<div id="lycosFollowLycosContent"></div>
+	</article>
+		
+	 
+	<article id="lycosYouTubeArea" class="contentDisplay overflow hide" name="youTubeModule">
+    	<nav>
+			<ul id="youtubeMenu" class="lyMenu jsMenu overflow">
+				<li><a href="/site/modules/youtube?type=most_popular" title="Popular" onclick="return false;" class="selected">Popular</a></li>
+				<li><a href="/site/modules/youtube?type=on_the_web" title="Trending" onclick="return false;" class="">Trending</a></li>
+				<li><a href="/site/modules/youtube?type=music" title="Music" onclick="return false;">Music</a></li>
+				<li><a href="/site/modules/youtube?type=sports" title="Sports" onclick="return false;">Sports</a></li>
+				<li><a href="#" title="Search" onclick="return false;" id="ytSearchMenuItem">Search</a></li>
+			</ul>
+		</nav>
+    
+		<form action="#" method="get" class="contentForm hide" id="searchYouTubeForm">
+			<fieldset>
+            	<span>
+                <label class="mobileHide" for="youTubeQuery">Search for Videos</label>
+				<input type="text" placeholder="Enter search term..." class="inputArea" id="youTubeQuery" value="" />
+				<input type="submit" class="btn" value="Go" />     
+                </span>  
+            </fieldset>
+		</form>
+  
+        <div id="lycosYouTubeContent"></div>
+	</article>
+		
+	 
+	<article id="lycosNewsArea" class="contentDisplay overflow hide">
+		<nav>
+			<ul id="newsMenu" class="lyMenu jsMenu overflow">
+				<li><a href="" title="US News" onclick="return false;" class="selected">US</a></li>				<li><a href="" title="World News" onclick="return false;" >World</a></li>
+					<li><a href="" title="Business News" onclick="return false;">Business</a></li>
+				<li><a href="" title="Technology News" onclick="return false;">Tech</a></li>
+				<li><a href="" title="Science News" onclick="return false;">Science</a></li>
+				<li><a href="" title="Health News" onclick="return false;">Health</a></li>
+			</ul>
+		</nav>
+		<div id="lycosNewsContent"></div>
+	</article> 
+	
+		
+	         
+	<article id="lycosEntArea" class="contentDisplay overflow hide">
+		<nav>
+			<ul class="lyMenu jsMenu overflow">
+				<li><a href="#" title="News" class="optBtn selected" id="entertainmentNewsTab">News</a></li>
+				<li><a href="#" title="Videos" class="optBtn" id="entertainmentVideosTab">Videos</a></li>
+			</ul>
+		</nav>
+		<div id="lycosEntertainmentContent"></div>
+	</article> 
+	
+	
+	
+	         
+	<article id="lycosRealCashCrittersArea" class="contentDisplay overflow hide">
+		<div id="lycosRealCashCrittersContent"></div>
+	</article> 
+	
+	
+	         
+	<article id="lycosEvincibleArea" class="contentDisplay overflow hide">
+		<div id="lycosEvincibleContent"></div>
+	</article> 
+		
+	     
+	<article id="lycosGVArea" class="contentDisplay overflow hide">
+		<div id="gamesvilleTopGamesContent"></div>
+		<nav class="bottomNav overflow">
+			<a href="http://www.gamesville.com/" title="Play more games and win big at Gamesville.com" class="float_right btn">Play More Games!</a>
+		</nav>
+	</article>
+		
+	 
+	<article id="lycosMailArea" class="contentDisplay overflow hide">
+					<form action="http://www.mail.lycos.com/service/login" method="post" class="loginForm" id="mailLoginForm">
+				<h2>Sign in to Lycos mail</h2>
+				<p id="loginError"></p>
+				<fieldset>
+					<label for="unMail" class="float_left sprite unIcon"></label>
+					<input id="unMail" name="m_U" placeholder="name@yourDomain.com" type="text" class="inputArea float_left" value="" />
+				</fieldset>
+				<fieldset>
+					<label for="pwMail" class="float_left sprite pwIcon"></label>
+					<input id="pwMail" name="m_P" type="password" class="inputArea float_left" placeholder="Enter your password" value=""/>
+				</fieldset>
+				<fieldset class="txt_center">
+					<input type="checkbox" id="rememberMail" />
+					<label for="rememberMail">Remember me <span>on this computer</span></label>
+				</fieldset>
+				<fieldset class="txt_center">
+					<input type="submit" value="Login" id="loginMail" class="btn bigBtn" />
+					<p>Or sign in using...</p>
+					<div>
+						social buttons go here
+					</div>
+				</fieldset>
+				<input type="hidden" name="m_CBURL" value="http://www.lycos.com"/>
+			</form>
+  
+			<div class="comparison">
+				<h2>Don't have an account?</h2>
+				<table>
+					<thead>
+						<tr>
+							<td class="noBorder"></td>
+							<td class="txt_center">Mail Free</td>
+							<td class="txt_center">Mail Plus</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="featureTitle">Storage</td>
+							<td class="txt_center">3GB</td>
+							<td class="txt_center">5GB</td>
+						</tr>
+						<tr>
+							<td class="featureTitle">Ad Supported</td>
+							<td class="checkMark"><span class="hideText">Yes</span></td>
+							<td><span class="hideText">No</span></td>
+						</tr>
+						<tr>
+							<td class="featureTitle">Pop3/IMAP Access</td>
+							<td><span class="hideText">No</span></td>
+							<td class="checkMark"><span class="hideText">Yes</span></td>
+						</tr>
+						<tr>
+							<td class="featureTitle">Adv. Spam Filtering</td>
+							<td class="checkMark"><span class="hideText">Yes</span></td>
+							<td class="checkMark"><span class="hideText">Yes</span></td>
+						</tr>
+						<tr>
+							<td class="featureTitle">Virus Checking</td>
+							<td class="checkMark"><span class="hideText">Yes</span></td>
+							<td class="checkMark"><span class="hideText">Yes</span></td>
+						</tr>
+						<tr>
+							<td class="featureTitle">Domain/Address Blocking</td>
+							<td class="checkMark"><span class="hideText">Yes</span></td>
+							<td class="checkMark"><span class="hideText">Yes</span></td>
+						</tr>
+					</tbody>
+					<tfoot class="overflow">
+						<tr>
+							<td colspan="3" class="noBorder">
+								<a href="#" title="Sign up now" class="btn bigBtn float_right">Sign Up Now</a>
+							</td>
+						</tr>
+					</tfoot>
+				</table>
+			</div>
+			</article>
+		
+	 
+	<article id="lycosBuildArea" class="contentDisplay overflow hide">
+    	<div id="lycosBuildContent"></div>
+    </article>
+	</section>
+
+<script>
+var modules = 
+[
+		// {
+	// 	name: 'mail',
+	// 	tileId: 'lycosMail',
+	// 	isLoaded: false,
+	// 	defaultContentDisplayTitle: "Lycos Mail",
+	// 	analyticsEventName: "Lycos Mail",
+	// 	currentContentDisplayTitle: null,
+	// 	loadFunction: function() { }
+	// },
+		
+		{
+		name: 'news',
+		tileId: 'lycosNews',
+		isLoaded: false,
+		defaultContentDisplayTitle: "News",
+		analyticsEventName: "News",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadNewsModule(); }
+	},
+	
+		
+		{
+		name: 'weather',
+		tileId: 'lycosWeather',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Weather",
+		analyticsEventName: "Weather",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadWeatherModule(); }
+	},
+	
+	
+		{
+		name: 'evincible',
+		tileId: 'lycosEvincible',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Evincible",
+		analyticsEventName: "Evincible",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadEvincibleModule(); }
+	},
+		
+		{
+		name: 'entertainment',
+		tileId: 'lycosEnt',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Entertainment",
+		analyticsEventName: "Entertainment",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadEntertainmentModule(); }
+	},
+	
+		
+		{
+		name: 'gamesville',
+		tileId: 'lycosGV',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Gamesville",
+		analyticsEventName: "Gamesville",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadGamesvilleModule(); }
+	},
+	
+	
+		
+		
+	
+		{
+		name: 'elections',
+		tileId: 'lycosElections',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Politics",
+		analyticsEventName: "Politics",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadElectionsModule(); }
+	},
+		
+		{
+		name: 'youtube',
+		tileId: 'lycosYouTube',
+		isLoaded: false,
+		defaultContentDisplayTitle: "YouTube Videos",
+		analyticsEventName: "YouTube Videos",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadYouTubeModule(); }
+	},
+		
+		{
+		name: 'shopping',
+		tileId: 'lycosShopp',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Shopping",
+		analyticsEventName: "Shopping",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadShoppingModule('t', 0, 1); }
+	},
+	
+		
+		{
+		name: 'tripod',
+		tileId: 'lycosBuild',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Web Publishing",
+		analyticsEventName: "Tripod",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadTripodModule(); }
+	},
+		
+	
+		{
+		name: 'realcashcritters',
+		tileId: 'lycosRealCashCritters',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Fruit Frenzy",
+		analyticsEventName: "Reel Cash Critters",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadRealCashCrittersModule(); }
+	},
+	
+		
+		{
+		name: 'followlycos',
+		tileId: 'lycosFollowLycos',
+		isLoaded: false,
+		defaultContentDisplayTitle: "Follow Lycos",
+		analyticsEventName: "Follow Lycos",
+		currentContentDisplayTitle: null,
+		loadFunction: function() { loadFollowLycosModule(); }
+	}
+	] ;
+config.modules = modules;	// Load module config
+</script>
+
+
+<script>
+	$(document).ready(function() {
+		// $('#lycosEvincible').click();
+	});
+</script>
+</section>
+</div> <!-- end page -->
+
+<footer class="lyGrey boxPad">
+<script type="text/javascript">
+	var searchPath = {
+		web: 'http://search.lycos.com/web',
+		images: 'http://search.lycos.com/images',
+		videos: 'http://search.lycos.com/videos',
+		news: 'http://news.lycos.com/search',
+		shopping: 'http://shopping.lycos.com',
+		yellowpages: 'http://yellowpages.lycos.com/search',
+		weather: 'http://weather.lycos.com'	
+	};
+
+	$(".text").fitText(.65);
+	$('.searchTabs li a').bind('click', function() {
+		var id = $(this).attr('id');
+		var searchType = id.replace('search', '').toLowerCase();
+		var searchKeyword = $('#searchArea').val();
+		var searchLocation = 'Boardman, OR';
+		
+		$('#lySearch .searchExtras').remove();
+
+		$('.searchActions li a').each(function() {
+			$(this).removeClass('selected');
+		});
+		
+		if(searchType == "more") {
+			return false;
+		} else if(searchType == "yellowpages") {
+			$('#lySearch').attr('action', searchPath[searchType]);
+			$('#searchArea').attr('name', 'what');
+			$('#lySearch').append('<input type="hidden" class="searchExtras" name="where" value="' + searchLocation + '"/>');
+		} else if(searchType == "news") {
+			$('#lySearch').attr('action', searchPath[searchType]);
+			$('#searchArea').attr('name', 'q');
+		} else if(searchType == "weather") {
+			$('#lySearch').attr('action', searchPath[searchType]);
+			$('#searchArea').attr('name', 'location');
+		} else if(searchType != 'searchMore') {
+			$(this).addClass('selected');
+			$('#lySearch').attr('action', searchPath[searchType]);
+			$('#searchArea').attr('name', 'q');
+		} else {
+			$('#searchArea').attr('name', 'q');
+		}
+		
+		if(searchKeyword != "") {
+			$("#lySearch").submit();
+		} else {
+			document.location = searchPath[searchType];
+		}
+		
+		return false;
+	});
+</script>
+
+	<ul class="overflow">
+		<li>&copy; 2013 <a href="http://www.lycos.com" title="Lycos Inc.">Lycos Inc</a>. All Rights Reserved.</li>
+        <li class="hide clr"></li>
+        <li><a href="http://info.lycos.com/about/company-overview" title="About Lycos">About</a></li>
+        <li><a href="http://info.lycos.com/career-opportunities/job-openings" title="Careers at Lycos">Careers</a></li>
+        <li><a href="http://advertising.lycos.com" title="Advertise with Lycos">Advertise <span class="mobileHide">With Us</span></a></li>
+                <li><a href="http://info.lycos.com/resources/terms-of-service" title="Lycos Network Legal" rel="nofollow">Legal</a></li>
+        <li><a href="http://info.lycos.com/resources/privacy-policy" title="Lycos Privacy Policy" rel="nofollow">Privacy</a></li>
+        <li><a href="https://registration.lycos.com/helpcenter_passthrough.php?m_PR=1" title="Lycos Help Portal" rel="nofollow">Help</a></li>
+        <li class="sfoot">
+        	<a href="http://www.facebook.com/LycosSearch" class="sprite socialF" title="Friend Lycos on Facebook" target="_blank"><span class="hide">Facebook</span></a>
+            <a href="https://twitter.com/lycos" class="sprite socialT" title="Follow Lycos on Twitter" target="_blank"><span class="hide">Twitter</span></a>
+        </li>
+    </ul>
+</footer>
+
+<script type="text/javascript">
+    __compete_code = '667f89f26d96c30e99728fe6a608804d';
+    (function () {
+        var s = document.createElement('script'),
+            d = document.getElementsByTagName('head')[0] ||
+                document.getElementsByTagName('body')[0],
+            t = 'https:' == document.location.protocol ?
+                'https://c.compete.com/bootstrap/' :
+                'http://c.compete.com/bootstrap/';
+        s.src = t + __compete_code + '/bootstrap.js';
+        s.type = 'text/javascript';
+        s.async = 'async';
+        if (d) { d.appendChild(s); }
+    }());
+</script>
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6036445", c3: "", c4: "www.lycos.com/", c15: "" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6036445&amp;c3=&amp;c4=www.lycos.com/&amp;c5=&amp;c6=&amp;c15=&amp;&cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Begin QuantCast Tag -->
+<script type="text/javascript">
+function channValidator(chann){
+	return (typeof(chann) == 'string' && chann != '');
+}
+
+function lycosQuantcast(){
+	var lb = "";
+	if(typeof(cm_host) !== 'undefined' && channValidator(cm_host)){
+		lb += cm_host.split('.')[0] + '.';
+	}
+	if(typeof(cm_taxid) !==	'undefined' && channValidator(cm_taxid)){
+		lb += cm_taxid;
+		lb = lb.replace('/','');
+	} else {
+		lb = lb.replace('.','');
+	}
+	return lb;
+}
+
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" :"http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+	qacct:"p-6eQegedn62bSo",
+	labels:lycosQuantcast()
+});
+</script>
+<!-- End QuantCast Tag -->
+
+<!-- Adobe Marketing Cloud Tag Management code
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.adobe.com -->
+<script type="text/javascript" src="http://ly.lygo.com/ly/lycos/2/js/s_code.js"></script>
+<script type="text/javascript">//<![CDATA[
+if(s){
+	s.pageName="lycos.com: homepage"
+	s.server=""
+	s.channel="homepage"
+	s.pageType=""
+	s.prop1="lycos.com"
+	s.prop2="lycos.com: homepage"
+	s.prop3="lycos.com: homepage"
+	s.prop4="lycos.com: homepage"
+	s.prop5="landing page"
+	s.prop49=""
+	s.t()
+}
+//]]></script>
+<!-- End Adobe Marketing Cloud Tag Management code -->
+
+
+			
+		<script tupe="text/javascript" src="http://loadus.exelator.com/load/?p=398&amp;g=001&amp;ctg=&amp;subctg=&amp;kw=&amp;refkw="></SCRIPT>
+	
+
+<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132784.js"></script>
+<script type="text/javascript">
+    var __cho__ = {"pid":1696};
+    (function() {
+        var c = document.createElement('script');
+        c.type = 'text/javascript';
+        c.async = true;
+        c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(c, s);
+    })();
+</script> 
+<script type="text/javascript">
+  var _oiqq = _oiqq || [];
+  _oiqq.push(['oiq_addPageBrand', '']);
+  _oiqq.push(['oiq_addPageCat', '']);
+  _oiqq.push(['oiq_addPageLifecycle', 'Intend']);
+  _oiqq.push(['oiq_doTag']);
+	(function() {
+    var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true;
+    oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/lycos.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
+  })();
+</script>
+</body>
+</html>
